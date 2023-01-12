@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taiphanvan2k3
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java backend and basic c#
+- 🌱 I’m currently learning Java backend and basic C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100014149143164
 
