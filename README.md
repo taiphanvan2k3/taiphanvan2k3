@@ -31,7 +31,7 @@
 
 <a href="https://github.com/taiphanvan2k3/Snake2D/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=Snake2D&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=Snake2D&theme=synthwave" />
 </a>  
 
 <h3 align="left">Languages and Tools:</h3>
