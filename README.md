@@ -14,7 +14,7 @@
 
 
 
-
+<!-- Themes: highcontrast,merko,radical, gruvbox,dark,dracula, onedark,cobalt,synthwave--->
 <a href="https://github.com/taiphanvan2k3/MegaMan/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=MegaMan&theme=radical" />
