@@ -14,6 +14,11 @@
 
 ![Tài 's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taiphanvan2k3&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/taiphanvan2k3/PBL3/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=cobalt" />
+</a>
+
 <!-- Themes: highcontrast, merko, radical, gruvbox,dark,dracula, onedark,cobalt,synthwave--->
 <a href="https://github.com/taiphanvan2k3/MegaMan/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -22,12 +27,7 @@
 <a href="https://github.com/taiphanvan2k3/CalendarSwing/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=CalendarSwing&theme=merko" />
-</a>  
-
-<a href="https://github.com/taiphanvan2k3/PBL3/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=synthwave" />
-</a> 
+</a>   
 
 <a href="https://github.com/taiphanvan2k3/Snake2D/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
