@@ -22,12 +22,12 @@
 <a href="https://github.com/taiphanvan2k3/CalendarSwing/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=CalendarSwing&theme=merko" />
-</a>
+</a>  
 
-<a href="https://github.com/taiphanvan2k3/DongHoBamGio/">
+<a href="https://github.com/taiphanvan2k3/PBL3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=DongHoBamGio&theme=gruvbox" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=synthwave" />
+</a> 
 
 <a href="https://github.com/taiphanvan2k3/Snake2D/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
