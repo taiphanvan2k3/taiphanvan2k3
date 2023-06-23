@@ -45,4 +45,4 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png" alt="mysql" width="40"/> </a> </p>
 <!-- Có thể tùy chỉnh langs-count từ 2 -> 10 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut&langs_count=10)](https://github.com/taiphanvan2k3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
