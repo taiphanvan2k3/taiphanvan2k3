@@ -56,6 +56,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a>
+<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png" alt="mysql" width="50"/> 
 </p>
 <!-- Có thể tùy chỉnh langs-count từ 2 -> 10 -->
 
