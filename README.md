@@ -60,4 +60,4 @@
 </p>
 <!-- Có thể tùy chỉnh langs-count từ 2 -> 10 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=pie)](https://github.com/taiphanvan2k3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut)](https://github.com/taiphanvan2k3/github-readme-stats)
