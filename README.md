@@ -58,6 +58,6 @@
 </a>
 <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png" alt="mysql" width="50"/> 
 </p>
-<!-- Có thể tùy chỉnh langs-count từ 2 -> 10 -->
+<!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut)](https://github.com/taiphanvan2k3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut&langs_count=20)](https://github.com/taiphanvan2k3/github-readme-stats)
