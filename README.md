@@ -12,8 +12,8 @@
 <a href="https://www.leetcode.com/taiphanvan2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiphanvan2403" height="30" width="40" /></a>
 </p>
 
-![Tài 's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taiphanvan2k3&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+<!-- ![Tài 's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taiphanvan2k3&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taiphanvan2k3&theme=onedark&card_width=500)](https://git.io/streak-stats)
 <a href="https://github.com/taiphanvan2k3/PBL3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=cobalt" />
