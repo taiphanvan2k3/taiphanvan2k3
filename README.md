@@ -13,7 +13,6 @@
 </p>
 
 <!-- ![Tài 's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taiphanvan2k3&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taiphanvan2k3&theme=onedark&card_width=1000)](https://git.io/streak-stats)
 <a href="https://github.com/taiphanvan2k3/PBL3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=cobalt" />
