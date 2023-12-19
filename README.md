@@ -21,12 +21,12 @@
 <br/>
 <a href="https://github.com/taiphanvan2k3/PdfConvertion/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PdfConvertion&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PdfConvertion&theme=highcontrast" />
 </a> 
 
 <a href="https://github.com/taiphanvan2k3/OnlineExam/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=OnlineExam&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=OnlineExam&theme=gruvbox" />
 </a> 
 
 <!-- Themes: highcontrast, merko, radical, gruvbox,dark,dracula, onedark,cobalt,synthwave--->
