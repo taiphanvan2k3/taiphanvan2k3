@@ -18,7 +18,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=cobalt" width="400px"/>
 </a>
 
-<br/>
 <a href="https://github.com/taiphanvan2k3/PdfConvertion/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PdfConvertion&theme=highcontrast" />
