@@ -13,6 +13,10 @@
 </p>
 
 <!-- ![Tài 's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taiphanvan2k3&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
+<a href="https://github.com/taiphanvan2k3/ChatAppStinger/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=ChatAppStinger&theme=highcontrast" width="400px"/>
+</a>
 <a href="https://github.com/taiphanvan2k3/PBL3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PBL3&theme=cobalt" width="400px"/>
@@ -20,7 +24,7 @@
 
 <a href="https://github.com/taiphanvan2k3/PdfConvertion/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PdfConvertion&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=PdfConvertion&theme=onedark" />
 </a> 
 
 <a href="https://github.com/taiphanvan2k3/OnlineExam/">
