@@ -68,7 +68,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="35"/> 
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="35"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="35"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="js" width="35"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
+<img src="https://github.com/twbs.png" alt="jquery" width="35"/>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a>
