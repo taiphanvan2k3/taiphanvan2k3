@@ -2,7 +2,7 @@
 </h1>
 <h3 align="left">My name is Tai. I am an IT student in Da Nang University of science and technology.</h3>
 
-- 🌱 I’m currently learning **HTML,CSS and plan to learn ASP.net this summer**
+- 🌱 I’m currently learning **HTML, CSS and plan to learn ASP.net this summer**
 - 💬 Ask me about **Basic knowledge of C++,Java,C#.**
 - 📫 How to reach me **taiphanvan2403@gmail.com**
 
