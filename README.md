@@ -1,9 +1,8 @@
 <h1 align="center">WELCOME TO MY PAGE 👋👋👋
 </h1>
-<h3 align="left">My name is Tai. I am an IT student in Da Nang University of science and technology.</h3>
+<h3 align="left">My name is Tai. I am an IT student at Da Nang University of Science and Technology.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and plan to learn ASP.net this summer**
-- 💬 Ask me about **Basic knowledge of C++,Java,C#.**
+- 🌱 I am a developer in Web development
 - 📫 How to reach me **taiphanvan2403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
