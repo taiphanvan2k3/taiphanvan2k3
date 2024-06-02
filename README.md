@@ -1,5 +1,16 @@
-<h1 align="center">WELCOME TO MY PAGE 👋👋👋
-</h1>
+
+<h2 align="center">WELCOME TO MY PAGE 👋👋👋</h2>
+
+<!--x axis divider-->
+<img src="./assets/images/horizontal-divider-gradient.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="./assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+
 <h3 align="left">My name is Tai. I am an IT student at Da Nang University of Science and Technology.</h3>
 
 - 🌱 I am a developer in Web development
@@ -51,6 +62,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=CalendarWinform&theme=gruvbox" />
 </a> 
  
+ <img src="./assets/images/horizontal-divider-gradient.gif">
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -68,6 +80,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="35"/> 
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="35"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="35"/>
+<img src="./assets/images/horizontal-divider-gradient.gif">
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjgMhUemFnScxBI3kAVh9aDD2XUAPu4eQqA&s" alt="net core" width="35"/>
@@ -75,6 +88,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
 </p>
+<img src="./assets/images/horizontal-divider-gradient.gif">
 <h3 align="left">Database and Tools:</h3>
 <p align="left"> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
@@ -83,6 +97,19 @@
 <img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" alt="Dbeaver" width="80"/> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xKpbMzxgx6L-fJilln2UxP3Mat8d9fndfQ&s" alt="Firebase" width="110"/> 
 </p>
+<img src="./assets/images/horizontal-divider-gradient.gif">
 <!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut&langs_count=20)](https://github.com/taiphanvan2k3/github-readme-stats)
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=taiphanvan2k3&hide_border=true&type=png" alt="taiphanvan2k3" /></p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut&langs_count=20)](https://github.com/taiphanvan2k3/github-readme-stats) -->
+
+<a href="https://github.com/taiphanvan2k3/github-readme-stats">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=taiphanvan2k3&card_width=200" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiphanvan2k3&layout=donut&langs_count=20&card_width=320" />
+</a>
