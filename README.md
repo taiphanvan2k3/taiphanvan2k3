@@ -13,14 +13,17 @@
 - 🌱 I am a developer in Web development
 - 📫 How to reach me **taiphanvan2403@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<h3 align="center" width=400>🤝Connect with Me🤝</h3>
+<div align="center">
 
-<a href="https://web.facebook.com/taiphanvan2403" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014149143164" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/taiphanvan2403" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiphanvan2403" height="30" width="40" /></a>
-</p>
+[![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014149143164)
+[![image](https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=orange)](https://www.leetcode.com/taiphanvan2403)
+</div>
 
 <br/>
 
