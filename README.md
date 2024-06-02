@@ -22,7 +22,8 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014149143164)
-[![image](https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=orange)](https://www.leetcode.com/taiphanvan2403)
+[![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiphanvan2403@gmail.com)
+[![image](https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/taiphanvan2403)
 </div>
 
 <br/>
