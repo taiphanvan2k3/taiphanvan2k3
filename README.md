@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=CalendarWinform&theme=gruvbox" />
 </a> 
  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -63,16 +63,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="40" /> </a>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="35"/> 
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="35"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="35"/>
+<h3 align="left">Frameworks and Libraries:</h3>
+<p align="left"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjgMhUemFnScxBI3kAVh9aDD2XUAPu4eQqA&s" alt="net core" width="35"/>
+<img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="45"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
-<img src="https://github.com/twbs.png" alt="jquery" width="35"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
+</p>
+<h3 align="left">Database and Tools:</h3>
+<p align="left"> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SqlServer" width="40" height="40"/> 
 </a>
-<img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" alt="dbeaver" width="80"/> 
+<img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" alt="Dbeaver" width="80"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xKpbMzxgx6L-fJilln2UxP3Mat8d9fndfQ&s" alt="Firebase" width="110"/> 
 </p>
 <!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
 
