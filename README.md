@@ -22,11 +22,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiphanvan2403" height="30" width="40" /></a>
 </p>
 
+<br/>
 
-<br/>
-<br/>
-<br/>
 <!-- ![Tài 's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taiphanvan2k3&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+<h3 align="center">⭐My Favorite Repository⭐</h3>
 <div align="center">
     <a href="https://github.com/taiphanvan2k3/ChatAppStinger/">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
