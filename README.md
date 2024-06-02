@@ -10,7 +10,6 @@
 </a>
 </picture>
 
-
 <h3 align="left">My name is Tai. I am an IT student at Da Nang University of Science and Technology.</h3>
 
 - 🌱 I am a developer in Web development
@@ -103,12 +102,12 @@
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=taiphanvan2k3&hide_border=true&type=png" alt="taiphanvan2k3" /></p>
+<!-- <p align="center"><img src="https://streak-stats.demolab.com?user=taiphanvan2k3&hide_border=true&type=png" alt="taiphanvan2k3" /></p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut&langs_count=20)](https://github.com/taiphanvan2k3/github-readme-stats) -->
 
 <a href="https://github.com/taiphanvan2k3/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=taiphanvan2k3&card_width=200" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=taiphanvan2k3&card_width=200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiphanvan2k3&layout=donut&langs_count=20&card_width=320" />
