@@ -117,9 +117,9 @@
 
 <div align="center">
   <a href="https://github.com/taiphanvan2k3/github-readme-stats">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=taiphanvan2k3&card_width=200" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=taiphanvan2k3&card_width=150" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiphanvan2k3&layout=donut&langs_count=20&card_width=400" />
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiphanvan2k3&layout=donut&langs_count=20&card_width=350" />
   </a>
 </div>
