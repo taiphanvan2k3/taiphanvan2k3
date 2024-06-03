@@ -112,7 +112,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xKpbMzxgx6L-fJilln2UxP3Mat8d9fndfQ&s" alt="Firebase" width="110"/> 
 </p>
 <img src="./assets/images/horizontal-divider-gradient.gif">
-<!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
+
 
 <!-- custom streak stats: https://git.io/streak-stats -->
 <!-- <p align="center"><img src="https://streak-stats.demolab.com?user=taiphanvan2k3&hide_border=true&type=png" alt="taiphanvan2k3" /></p> -->
@@ -120,10 +120,11 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiphanvan2k3&layout=donut&langs_count=20)](https://github.com/taiphanvan2k3/github-readme-stats) -->
 
 <div align="center">
-  <a href="https://github.com/taiphanvan2k3/github-readme-stats">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=taiphanvan2k3&card_width=150" />
+  <a href="https://github-readme-stats-phan-van-tais-projects.vercel.app/api?username=taiphanvan2k3">
+    <img height=270 align="center" src="https://github-readme-stats-phan-van-tais-projects.vercel.app/api?username=taiphanvan2k3&card_width=150" />
   </a>
+    <!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiphanvan2k3&layout=donut&langs_count=20&card_width=350" />
+    <img height=270 align="center" src="https://github-readme-stats-phan-van-tais-projects.vercel.app/api/top-langs?username=taiphanvan2k3&layout=compact&langs_count=10&card_width=250" />
   </a>
 </div>
