@@ -125,6 +125,6 @@
   </a>
     <!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=270 align="center" src="https://github-readme-stats-phan-van-tais-projects.vercel.app/api/top-langs?username=taiphanvan2k3&layout=compact&langs_count=10&card_width=250" />
+    <img height=270 align="center" src="https://github-readme-stats-phan-van-tais-projects.vercel.app/api/top-langs?username=taiphanvan2k3&layout=compact&langs_count=10&card_width=200" />
   </a>
 </div>
