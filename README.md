@@ -99,20 +99,22 @@
 <p align="left"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjgMhUemFnScxBI3kAVh9aDD2XUAPu4eQqA&s" alt="net core" width="35"/>
 <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" alt="NodeJS" width="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="ReactJS" width="35"/>  
 <img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="45"/>
 <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="Tailwind css" width="45"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
 </p>
-<h3 align="left">Database and Tools:</h3>
+<h3 align="left">Database Management:</h3>
 <p align="left"> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SqlServer" width="40" height="40"/> 
-</a>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SqlServer" width="40" height="40"/> 
 <img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" alt="Dbeaver" width="80"/> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xKpbMzxgx6L-fJilln2UxP3Mat8d9fndfQ&s" alt="Firebase" width="110"/> 
 <img src="https://3.imimg.com/data3/AG/DH/MY-8239411/mongo-db-consultants-software.png" alt="MongoDB" width="110"/> 
+</p>
+<h3 align="left">Tools:</h3>
+<p align="left"> 
+<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="35"/> 
 <img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" width="35"/> 
 </p>
 <img src="./assets/images/horizontal-divider-gradient.gif">
