@@ -33,11 +33,11 @@
 <div align="center">
     <a href="https://github.com/taiphanvan2k3/UniTravelBE_Unihack2024/">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=UniTravelBE_Unihack2024&theme=highcontrast" width="400px"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=UniTravelBE_Unihack2024&theme=dracula" width="400px"/>
     </a>
     <a href="https://github.com/taiphanvan2k3/UniTravelFE_Unihack2024">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=UniTravelFE_Unihack2024&theme=highcontrast" width="400px"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=UniTravelFE_Unihack2024&theme=dracula" width="400px"/>
     </a>
 </div>
 
@@ -79,12 +79,12 @@
 <div align="center">
   <a href="https://github.com/taiphanvan2k3/Snake2D/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=Snake2D&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=Snake2D&theme=dracula" />
 </a>  
 
 <a href="https://github.com/taiphanvan2k3/CalendarWinform/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=CalendarWinform&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=CalendarWinform&theme=dracula" />
 </a> 
 </div>
  
