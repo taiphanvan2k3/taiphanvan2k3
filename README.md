@@ -142,6 +142,6 @@
   </a>
     <!-- Có thể tùy chỉnh langs-count từ 1 -> 20 -->
   <a href="https://github-readme-stats-phan-van-tais-projects.vercel.app">
-    <img height=210 align="center" src="https://github-readme-stats-phan-van-tais-projects.vercel.app/api/top-langs?username=taiphanvan2k3&layout=compact&langs_count=10&card_width=200" />
+    <img height=210 align="center" src="https://github-readme-stats-phan-van-tais-projects.vercel.app/api/top-langs?username=taiphanvan2k3&layout=compact&langs_count=10&card_width=200&hide=jupyter%20notebook,less" />
   </a>
 </div>
