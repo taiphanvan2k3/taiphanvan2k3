@@ -112,7 +112,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" alt="NodeJS" width="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="ReactJS" width="35"/>  
-<img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="45"/>
+<img src="https://th.bing.com/th/id/OIP.cyGlxOKl3wJqBj4yaza_6QAAAA?rs=1&pid=ImgDetMain" alt="bootstrap" width="45"/>
 <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="Tailwind css" width="45"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
 </p>
