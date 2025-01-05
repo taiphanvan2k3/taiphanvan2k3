@@ -119,14 +119,19 @@
 <h3 align="left">Database Technologies:</h3>
 <p align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SqlServer" width="40" height="40"/> 
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" alt="MySQL" width="80" height="40"/> 
+<img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="PostgreSQL" width="40" height="40"/> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xKpbMzxgx6L-fJilln2UxP3Mat8d9fndfQ&s" alt="Firebase" width="110"/> 
 <img src="https://3.imimg.com/data3/AG/DH/MY-8239411/mongo-db-consultants-software.png" alt="MongoDB" width="110"/> 
 </p>
-<h3 align="left">Tools:</h3>
+<h3 align="left">Others:</h3>
 <p align="left"> 
 <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="35"/> 
 <img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" alt="Dbeaver" width="80"/> 
-<img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" width="35"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="35"/> 
+<img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x1753-uguk29a7.png" alt="Docker" width="35"/> 
+<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="35"/> 
+<img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="RabbitMQ" width="35"/> 
 </p>
 <img src="./assets/images/horizontal-divider-gradient.gif">
 
