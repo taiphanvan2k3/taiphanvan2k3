@@ -110,19 +110,22 @@
 <p align="left"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjgMhUemFnScxBI3kAVh9aDD2XUAPu4eQqA&s" alt="net core" width="35"/>
 <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" alt="NodeJS" width="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="ReactJS" width="35"/>  
+<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiybxi5gu2tusf7jhftnj.png" alt="NextJS" width="60"/>  
 <img src="https://th.bing.com/th/id/OIP.cyGlxOKl3wJqBj4yaza_6QAAAA?rs=1&pid=ImgDetMain" alt="bootstrap" width="45"/>
 <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="Tailwind css" width="45"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="jquery" width="35"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
+<img src="https://runcode-app-public.s3.amazonaws.com/images/tensorflow-online-editor-compiler.original.png" alt="Tensorflow" width="35"/>
 </p>
 <h3 align="left">Database Technologies:</h3>
 <p align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SqlServer" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" alt="MySQL" width="80" height="40"/> 
 <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="PostgreSQL" width="40" height="40"/> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xKpbMzxgx6L-fJilln2UxP3Mat8d9fndfQ&s" alt="Firebase" width="110"/> 
+<img src="https://www.gstatic.com/devrel-devsite/prod/vce7dc8716edeb3714adfe4dd15b25490031be374149e3613a8b7fb0be9fc4a25/firebase/images/touchicon-180.png" alt="Firebase" width="40"/> 
 <img src="https://3.imimg.com/data3/AG/DH/MY-8239411/mongo-db-consultants-software.png" alt="MongoDB" width="110"/> 
+<img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="QDrant" width="40"/> 
 </p>
 <h3 align="left">Others:</h3>
 <p align="left"> 
@@ -132,7 +135,9 @@
 <img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x1753-uguk29a7.png" alt="Docker" width="35"/> 
 <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="35"/> 
 <img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="RabbitMQ" width="35"/> 
+<img src="https://aicandy.vn/wp-content/uploads/2025/04/aicandy_cong_cu_ai_roboflow.webp" alt="Roboflow" width="35"/> 
 </p>
+
 <img src="./assets/images/horizontal-divider-gradient.gif">
 
 
