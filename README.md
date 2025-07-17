@@ -122,19 +122,19 @@
 <p align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SqlServer" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" alt="MySQL" width="80" height="40"/> 
-<img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="PostgreSQL" width="40" height="40"/> 
+<img src="./assets/images/postgresql.png" alt="PostgreSQL" width="80"/> 
 <img src="https://www.gstatic.com/devrel-devsite/prod/vce7dc8716edeb3714adfe4dd15b25490031be374149e3613a8b7fb0be9fc4a25/firebase/images/touchicon-180.png" alt="Firebase" width="40"/> 
 <img src="https://3.imimg.com/data3/AG/DH/MY-8239411/mongo-db-consultants-software.png" alt="MongoDB" width="110"/> 
-<img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="QDrant" width="40"/> 
+<img src="./assets/images/qdrant.png" alt="QDrant" width="80"/> 
 </p>
 <h3 align="left">Others:</h3>
 <p align="left"> 
 <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="35"/> 
 <img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" alt="Dbeaver" width="80"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="35"/> 
-<img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x1753-uguk29a7.png" alt="Docker" width="35"/> 
+<img src="./assets/images/docker.png" alt="Docker" width="80"/> 
 <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="35"/> 
-<img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="RabbitMQ" width="35"/> 
+<img src="./assets/images/rabbitmq.png" alt="RabbitMQ" width="100"/> 
 <img src="https://aicandy.vn/wp-content/uploads/2025/04/aicandy_cong_cu_ai_roboflow.webp" alt="Roboflow" width="35"/> 
 </p>
 
