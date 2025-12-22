@@ -10,7 +10,7 @@
 
 <h3 align="left">My name is Tai. I am an IT student at Da Nang University of Science and Technology.</h3>
 
-- 🌱 I am a developer in Web development
+- 🌱 I'm a full-stack Web Developer
 - 📫 How to reach me **taiphanvan2403@gmail.com**
 
 <br/>
@@ -23,6 +23,8 @@
 
 [![image](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014149143164)
 [![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiphanvan2403@gmail.com)
+[![image](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/taiphanvan2k3/)
+
 </div>
 
 <br/>
