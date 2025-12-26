@@ -33,9 +33,9 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <h3 align="center">⭐My Favorite Repository⭐</h3>
 <div align="center">
-    <a href="https://github.com/taiphanvan2k3/LegalAssistant.AppService/">
+    <a href="https://github.com/taiphanvan2k3/LegalAssistant.AppService">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=LegalAssistant.API&theme=dracula" width="400px"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiphanvan2k3&repo=LegalAssistant.AppService&theme=dracula" width="400px"/>
     </a>
     <a href="https://github.com/taiphanvan2k3/LegalAssistant.AIResearch">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
