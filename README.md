@@ -13,7 +13,7 @@
 - 🌱 I'm a full-stack Web Developer
 - 📫 How to reach me **taiphanvan2403@gmail.com**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-taiphan.dev-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://taiphanvan-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-taiphan.dev-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://portfolio.taiphanvan.id.vn)
 
 <br/>
 <br/>
