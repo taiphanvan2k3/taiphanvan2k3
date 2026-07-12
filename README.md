@@ -133,7 +133,7 @@
 </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="40" /> </a>
+<img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="40" /> </a>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="35"/> 
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="35"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js" width="35"/>
@@ -148,6 +148,7 @@
 <img src="https://th.bing.com/th/id/OIP.cyGlxOKl3wJqBj4yaza_6QAAAA?rs=1&pid=ImgDetMain" alt="bootstrap" width="45"/>
 <img width="50" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/43120c2f-0105-4985-8a96-55d43848c02e" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" alt="flask" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/1280px-FastAPI_logo.svg.png?_=20240902201856" alt="FastAPI" width="120"/>
 <img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="Tensorflow" width="40"/>
 </p>
 <h3 align="left">Database Technologies:</h3>
@@ -155,7 +156,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SqlServer" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" alt="MySQL" width="80" height="40"/> 
 <img src="./assets/images/postgresql.png" alt="PostgreSQL" width="80"/> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/vce7dc8716edeb3714adfe4dd15b25490031be374149e3613a8b7fb0be9fc4a25/firebase/images/touchicon-180.png" alt="Firebase" width="40"/> 
+<img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" alt="Firebase" width="35"/> 
 <img src="https://3.imimg.com/data3/AG/DH/MY-8239411/mongo-db-consultants-software.png" alt="MongoDB" width="110"/> 
 <img src="./assets/images/qdrant.png" alt="QDrant" width="80"/> 
 <img width="100" alt="Neo4J" src="https://github.com/user-attachments/assets/076f16ac-fcc1-4302-a428-630766ddcaba" />
